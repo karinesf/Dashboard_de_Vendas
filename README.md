@@ -1,4 +1,4 @@
-# Estudo de Caso - Dados de Vendas
+# Estudo de Caso 1 - Dados de Vendas do Curso de Power BI da DSA
 ![Dashboard de Vendas](Dashboardvendas.png)
 
 # Definição do Problema de Negócio
