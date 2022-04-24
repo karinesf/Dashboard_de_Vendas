@@ -10,12 +10,14 @@
    construir um Dashboard que represente os dados de vendas no período de 2016 a 2019. Sua fonte de dados é um arquivo Excel
    com dados coletados do sistema de vendas e CRM da empresa, com a as seguintes colunas:
    ![Tabela com os dados](tabela.png)
+   
+   
    Seu gerente precisa das seguintes informações:
 
-   1- Total de Vendas por Ano
-   2- Custo de Entrega do Veículo Por Fabricante
-   3- Custo de Mão de Obra Por Estado
-   4- Total de Vendas Geral e Matriz de Vendas
+   - Total de Vendas por Ano
+   - Custo de Entrega do Veículo Por Fabricante
+   - Custo de Mão de Obra Por Estado
+   - Total de Vendas Geral e Matriz de Vendas
 
    Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas por estado e se as vendas estão acima
    ou abaixo da média. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação.
