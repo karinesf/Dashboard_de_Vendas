@@ -1,7 +1,5 @@
-# Estudo de Caso 1 - Dados de Vendas do Curso de Power BI da DSA
+# Estudo de Caso 1 - Definição do Problema de Negócio - Curso de Power BI da DSA
 ![Dashboard de Vendas](Dashboardvendas.png)
-
-# Definição do Problema de Negócio
 
    Você é Analista de Dados na empresa XYZ Corporation International, uma revendedora de automóveis de luxo com sede em 
    São Paulo. A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados
